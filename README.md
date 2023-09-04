@@ -2,7 +2,6 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/Satyam-1516"> SATYAM RANJAN </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [SATYAM RANJAN](https://www.linkedin.com/in/Satyam-1516) !!  -->
 
-<h3 align="center">A Techie from India</h3>
 
 <!--
 [![Github](https://img.shields.io/github/followers/Satyam-1516?label=Follow&style=social)](https://github.com/Satyam-1516)
